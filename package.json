@@ -10,6 +10,7 @@
 		"react": "^16.10.1",
 		"react-dom": "^16.10.1",
 		"react-scripts": "3.2.0",
+		"styled-components": "^4.4.0",
 		"typescript": "3.6.3"
 	},
 	"scripts": {
@@ -32,5 +33,9 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"@types/styled-components": "^4.1.19",
+		"react-hot-loader": "^4.12.15"
 	}
 }
