@@ -1,0 +1,5 @@
+{
+	"editor.formatOnSave": true,
+	"editor.tabSize": 2
+	// using https://github.com/prettier/prettier-vscode
+}
