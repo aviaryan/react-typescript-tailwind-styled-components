@@ -1,5 +1,6 @@
 import React from 'react'
-import styled, { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from 'styled-components'
+import Landing from './screens/Landing'
 
 const GlobalStyle = createGlobalStyle`
 	body {
@@ -12,21 +13,12 @@ const GlobalStyle = createGlobalStyle`
 	}
 `
 
-const Header = styled.div`
-	font-size: 32px;
-	text-align: center;
-`
-
-const Second = styled.span`
-	color: blue;
-`
-
 const App: React.FC = () => {
 	return (
-		<Header>
+		<main>
 			<GlobalStyle />
-			<Second>New App</Second>
-		</Header>
+			<Landing />
+		</main>
 	)
 }
 
