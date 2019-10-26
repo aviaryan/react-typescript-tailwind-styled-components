@@ -1,3 +1,11 @@
+# React + TypeScript + Styled-Components + TailwindCSS Boilerplate
+
+> Boilerplate for getting started with a TypeScript based React (CRA) project with Tailwind and Styled-Components. Also includes editorconfig, prettier and HMR.
+
+This is the setup I used to start an old project of mine using these technologies. There were no tutorials available on the Internet so it took some time to get up and running. I hope this repository helps anyone looking to use the same tech.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
