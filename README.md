@@ -4,6 +4,8 @@
 
 This is the setup I used to start an old project of mine using these technologies. There were no tutorials available on the Internet so it took some time to get up and running. I hope this repository helps anyone looking to use the same tech.
 
+**Check out the [commits](https://github.com/aviaryan/react-typescript-tailwind-styled-components/commits/master) to understand individual steps.**
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
